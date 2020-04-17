@@ -36,7 +36,6 @@
 ![](https://github.com/Baoya-live/chess/blob/master/8.png?raw=true)
 ![](https://github.com/Baoya-live/chess/blob/master/9.png?raw=true)
 
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | 微信  | BCFind5 |
+| ------------- | ------------- |
+| 微信  | BCFind5 |
     
